@@ -1,0 +1,48 @@
+h1 {color: rgba(0, 0, 0, 0.918);
+    font-size:40px;
+}
+body{background-color:rgb(163, 153, 154);
+}
+img {
+    width: 800px; 
+    display: block;
+    margin: 0%;
+}
+
+h2 {font-size: 60px;
+
+}
+
+body.pistachon {
+    background-color: rgb(192, 224, 183);
+}
+
+.botoncute{
+    display: inline-block;
+    padding: 14px 26px;
+    background-color: #d6dbce8c;
+    color: rgb(255, 251, 245);
+    text-decoration: none;
+    border: 1px  solid rgb(255, 251, 243);
+    text-decoration: none;
+}
+    
+
+.regresarconpistachon{
+    background-color: rgb(188, 194, 177);
+    color: rgb(237, 248, 243);
+    padding: 13px 10px;
+    border-radius: 15px;
+    border: 3px solid white rgb(255, 250, 241);
+    text-decoration: none;
+}
+
+.marco-pan{
+    width: 400px;
+    border:10px solid rgba(168, 160, 143, 0.856);
+    outline: 4px solid rgb(253, 231, 235);
+    border-radius: 35px;
+    padding: 9px;
+    background-color: rgb(250, 243, 233);
+    }
+

@@ -1,0 +1,8 @@
+.marco-pan{
+    width: 400px;
+    border:10px solid rgb(238, 224, 179);
+    outline: 4px solid rgb(184, 176, 178);
+    border-radius: 35px;
+    padding: 9px;
+    background-color: rgb(202, 216, 176);
+}
